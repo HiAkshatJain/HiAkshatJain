@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HiAkshatJain&label=Profile%20views&color=0e75b6&style=flat" alt="AkshatJain" /> </p>
 
-<p align="left"> <a href="https://twitter.com/HiAkshatJain" target="blank"><img src="https://img.shields.io/twitter/follow/HiAkshatJain?logo=twitter&style=for-the-badge" alt="AkshatJain"  </p>
-
 - 🔭 I’m currently working on **Ed-Tech Plateform**
 
 - 🌱 I’m currently learning **System Design, Data Science and Django**
